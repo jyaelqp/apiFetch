@@ -1,0 +1,39 @@
+/* Estilos generales para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para la sección de título */
+  .title {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* Estilos para los botones */
+  .btn {
+    margin-right: 10px;
+  }
+  
+  /* Estilos para la tabla */
+  .table {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  
+  /* Estilos para la imagen de carga */
+  .spinner-border {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
